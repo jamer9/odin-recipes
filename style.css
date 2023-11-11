@@ -10,3 +10,7 @@ li {
 h2 {
     color: aquamarine;
 }
+img {
+    width: 500px;
+    height: auto;
+}
