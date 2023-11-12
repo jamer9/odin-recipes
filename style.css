@@ -1,10 +1,14 @@
 h1 {
-    color: blue;
+    color: black;
     font-weight: bolder;
+    text-align: center;
+    margin-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 li {
     font-weight: lighter;
+    text-align: center;
 }
 
 h2 {
@@ -13,4 +17,19 @@ h2 {
 img {
     width: 500px;
     height: auto;
+}
+
+.recipe-list {
+    background-color: blanchedalmond;
+    padding: 60px 16px;
+    text-align: center;
+    width: 200px;
+    margin: 50px auto;
+}
+
+a {
+    display: block;
+    padding: 16px;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
